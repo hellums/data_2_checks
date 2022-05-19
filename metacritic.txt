@@ -1,0 +1,177 @@
+Bourbon	Meta Critic	STDEV	Reviewers	Cost	Class	Super Cluster	Cluster	Country	Type
+Ancient Age 10yo Kentucky Straight Bourbon	8.44	0.35	8	1.0	Bourbon-like		R2	USA	Bourbon
+Ancient Age Kentucky Straight Bourbon	7.85	0.69	10	1.0	Bourbon-like		R2	USA	Bourbon
+Angel's Envy Bourbon (Port-finished)	8.42	0.47	18	3.0	Bourbon-like		R2	USA	Bourbon
+Angel's Envy Cask Strength	8.85	0.48	12	5.5	Bourbon-like		R2	USA	Bourbon
+Baker's 7yo Single Barrel Bourbon	9.02	0.26	3	3.0	Bourbon-like		R2	USA	Bourbon
+Baker's 7yo Small Batch Bourbon	8.73	0.34	25	3.0	Bourbon-like		R2	USA	Bourbon
+Barrell 15yo Craft Spirits Bourbon (Batch 001)	8.81	0.50	4	5.5	Bourbon-like			USA	Blend
+Barrell Bourbon (all Batches)	8.79	0.26	16	4.0	Bourbon-like		R3	USA	Bourbon
+Barton 1792 Full Proof Bourbon	8.66	0.41	13	3.0	Bourbon-like		R2	USA	Bourbon
+Barton 1792 High Rye Bourbon	8.69	0.38	6	3.0	Bourbon-like		R3	USA	Bourbon
+Barton 1792 Port Finished Bourbon	8.51	0.17	8	3.0	Bourbon-like		R2	USA	Bourbon
+Barton 1792 Single Barrel Bourbon	8.48	0.39	7	3.0	Bourbon-like		R2	USA	Bourbon
+Barton 1792 Small Batch Bourbon	8.50	0.38	23	2.0	Bourbon-like		R2	USA	Bourbon
+Barton 1792 Sweet Wheat Bourbon	8.46	0.49	11	4.0	Bourbon-like		R0	USA	Bourbon
+Basil Hayden's 10yo Bourbon	8.21	0.36	6	4.0	Bourbon-like		R3	USA	Bourbon
+Basil Hayden's Kentucky Bourbon	8.29	0.32	23	2.0	Bourbon-like		R3	USA	Bourbon
+Bernheim Original Straight Wheat 7yo Small Batch	8.41	0.50	21	2.0	Bourbon-like		R0	USA	Wheat
+Blanton's Gold Kentucky Straight Bourbon	8.67	0.42	22	4.0	Bourbon-like		R2	USA	Bourbon
+Blanton's Original Bourbon Single Barrel	8.65	0.29	27	3.0	Bourbon-like		R2	USA	Bourbon
+Blanton's Special Reserve Single Barrel (Green label)	8.31	0.36	8	3.0	Bourbon-like		R2	USA	Bourbon
+Blanton's Straight from the Barrel Bourbon	8.96	0.21	16	4.0	Bourbon-like		R2	USA	Bourbon
+Booker's Small Batch Straight Bourbon	8.76	0.29	29	3.0	Bourbon-like		R2	USA	Bourbon
+Buffalo Trace Bourbon	8.55	0.38	29	2.0	Bourbon-like		R1	USA	Bourbon
+Buffalo Trace Experimental Collection 12yo floor #1 (rye, 2014)	8.52	0.22	5	5.0	Bourbon-like		R1	USA	Bourbon
+Buffalo Trace Experimental Collection 12yo floor #1 (wheat, 2015)	8.61	0.23	3	5.0	Bourbon-like		R0	USA	Bourbon
+Buffalo Trace Experimental Collection 12yo floor #5 (rye, 2014)	9.05	0.25	5	5.0	Bourbon-like		R1	USA	Bourbon
+Bulleit 10yo	8.50	0.37	19	3.0	Bourbon-like		R3	USA	Bourbon
+Bulleit Bourbon Barrel Strength	8.56	0.25	9	4.0	Bourbon-like		R3	USA	Bourbon
+Bulleit Bourbon	8.33	0.35	29	2.0	Bourbon-like		R3	USA	Bourbon
+Colonel E.H. Taylor Four Grain	8.83	0.30	10	4.0	Bourbon-like		R1	USA	Bourbon
+Colonel E.H. Taylor Single Barrel	8.80	0.39	14	4.0	Bourbon-like		R1	USA	Bourbon
+Colonel E.H. Taylor Small Batch (BiB)	8.67	0.22	19	4.0	Bourbon-like		R1	USA	Bourbon
+Colonel EH. Taylor Barrel Proof	8.93	0.18	13	4.0	Bourbon-like		R1	USA	Bourbon
+Eagle Rare 10yo	8.64	0.29	29	2.0	Bourbon-like		R1	USA	Bourbon
+Eagle Rare 17yo	8.88	0.29	18	5.5	Bourbon-like		R1	USA	Bourbon
+Early Times BiB Kentucky Straight	8.71	0.30	5	1.0	Bourbon-like		R1	USA	Bourbon
+Early Times Kentucky Whisky	7.09	0.48	7	1.0	Bourbon-like		R1	USA	Bourbon
+Elijah Craig 12yo	8.66	0.27	27	2.0	Bourbon-like		R1	USA	Bourbon
+Elijah Craig 18yo	8.76	0.43	16	5.0	Bourbon-like		R1	USA	Bourbon
+Elijah Craig 21yo	9.17	0.34	6	5.5	Bourbon-like		R1	USA	Bourbon
+Elijah Craig Barrel Proof	8.82	0.31	21	4.0	Bourbon-like		R1	USA	Bourbon
+Elijah Craig Small Batch (NAS)	8.33	0.30	10	2.0	Bourbon-like		R1	USA	Bourbon
+Elmer T. Lee Single Barrel Bourbon	8.75	0.35	20	3.0	Bourbon-like		R2	USA	Bourbon
+Evan Williams (Black Label)	8.10	0.46	17	1.0	Bourbon-like		R1	USA	Bourbon
+Evan Williams 1783 Small Batch	8.17	0.35	5	1.0	Bourbon-like		R1	USA	Bourbon
+Evan Williams Bottled in Bond (White label)	8.32	0.53	16	1.0	Bourbon-like		R1	USA	Bourbon
+Evan Williams Single Barrel	8.58	0.27	21	2.0	Bourbon-like		R1	USA	Bourbon
+Ezra B 12yo Single Barrel	7.64	0.90	4	3.0	Bourbon-like		R1	USA	Bourbon
+Ezra Brooks 7yo Old Ezra 101	8.64	0.32	8	2.0	Bourbon-like		R1	USA	Bourbon
+Ezra Brooks Black Label	7.91	0.75	10	1.0	Bourbon-like		R1	USA	Bourbon
+Four Roses (Yellow Label)	8.18	0.40	15	1.0	Bourbon-like		R3	USA	Bourbon
+Four Roses Single Barrel Bourbon	8.70	0.30	27	3.0	Bourbon-like		R3	USA	Bourbon
+Four Roses Small Batch Bourbon	8.51	0.44	20	2.0	Bourbon-like		R3	USA	Bourbon
+Four Roses Small Batch Limited Edition	9.05	0.23	25	5.5	Bourbon-like		R3	USA	Bourbon
+George Dickel No.12	8.19	0.37	20	2.0	Bourbon-like		R1	USA	Bourbon
+George T Stagg	9.20	0.23	31	5.5	Bourbon-like		R1	USA	Bourbon
+Heaven Hill 6yo BiB	8.35	0.38	11	1.0	Bourbon-like		R1	USA	Bourbon
+Heaven Hill 7yo BiB	8.56	0.52	3	2.0	Bourbon-like		R1	USA	Bourbon
+Heaven Hill Old Syle Bourbon (white label)	7.80	0.49	5	1.0	Bourbon-like		R1	USA	Bourbon
+Heaven Hill Select Stock Barrel	8.89	0.10	3	5.0	Bourbon-like		R1	USA	Bourbon
+Heaven Hill Trybox Series New Make	8.14	0.32	3	1.0	Bourbon-like		R1	USA	Bourbon
+Henry McKenna 10yo Single Barrel BiB	8.74	0.28	14	2.0	Bourbon-like		R1	USA	Bourbon
+Henry McKenna Straight Bourbon	8.11	0.19	4	1.0	Bourbon-like		R1	USA	Bourbon
+High West American Prairie	8.37	0.58	11	3.0	Bourbon-like		R3	USA	Bourbon
+Jack Daniel's 150th Anniversary	8.89	0.31	3	3.0	Bourbon-like		R1	USA	Bourbon
+Jack Daniel's Gentleman Jack	7.93	0.45	17	2.0	Bourbon-like		R1	USA	Bourbon
+Jack Daniel's Master Distiller (all series)	8.57	0.19	5	2.0	Bourbon-like		R1	USA	Bourbon
+Jack Daniel's No. 27 Gold Double Barrelled	7.99	0.17	3	4.0	Bourbon-like		R1	USA	Bourbon
+Jack Daniel's Old No. 7	7.89	0.45	18	2.0	Bourbon-like		R1	USA	Bourbon
+Jack Daniel's Single Barrel Barrel Proof	8.65	0.51	15	4.0	Bourbon-like		R1	USA	Bourbon
+Jack Daniel's Single Barrel	8.53	0.33	20	3.0	Bourbon-like		R1	USA	Bourbon
+Jefferson's 18yo Presidential Select	8.81	0.45	10	5.5	Bourbon-like		R3	USA	Bourbon
+Jefferson's Ocean Aged at Sea	8.73	0.42	4	4.0	Bourbon-like		R3	USA	Bourbon
+Jefferson's Ocean	8.40	0.36	7	2.0	Bourbon-like		R3	USA	Bourbon
+Jefferson's Reserve Very Old Kentucky Straight Bourbon	8.61	0.39	9	3.0	Bourbon-like		R3	USA	Bourbon
+Jefferson's Very Small Batch Bourbon	7.91	0.65	8	2.0	Bourbon-like		R3	USA	Bourbon
+Jim Beam 12yo Signature Craft	8.49	0.35	11	2.0	Bourbon-like		R2	USA	Rye
+Jim Beam Black Label	8.17	0.40	19	1.0	Bourbon-like		R2	USA	Flavoured
+Jim Beam Bonded	8.49	0.36	12	2.0	Bourbon-like		R2	USA	Rye
+Jim Beam Devil's Cut	8.06	0.47	18	1.0	Bourbon-like		R2	USA	Bourbon
+Jim Beam Distillers Masterpiece PX Sherry Cask Finish	8.25	0.86	8	5.0	Bourbon-like		R2	USA	Bourbon
+Jim Beam Distillers Series	7.73	1.30	5	2.0	Bourbon-like		R2	USA	Blend
+Jim Beam Double Oak	8.28	0.47	10	2.0	Bourbon-like		R2	USA	Blend
+Jim Beam Red Stag (Black Cherry)	7.34	1.01	4	1.0	Bourbon-like			USA	Blend
+Jim Beam Single Barrel	8.59	0.13	4	2.0	Bourbon-like		R2	USA	Blend
+Jim Beam White Label	7.63	0.57	22	1.0	Bourbon-like		R2	USA	Blend
+Knob Creek Single Barrel Reserve Bourbon	8.76	0.30	19	3.0	Bourbon-like		R2	USA	Rye
+Knob Creek Small Batch 9yo Bourbon	8.59	0.38	27	2.0	Bourbon-like		R2	USA	Malt
+Larceny Small Batch Bourbon	8.34	0.26	17	2.0	Bourbon-like		R0	USA	Malt
+Maker's Mark 101 Proof	8.53	0.26	4	4.0	Bourbon-like		R0	USA	Malt
+Maker's Mark 46	8.61	0.36	25	3.0	Bourbon-like		R0	USA	Wheat
+Maker's Mark Cask Strength	8.72	0.39	18	4.0	Bourbon-like		R0	USA	Malt
+Maker's Mark	8.19	0.39	29	2.0	Bourbon-like		R0	USA	Rye
+Michter's 10yo Single Barrel Bourbon	8.83	0.30	17	5.5	Bourbon-like		R1	USA	Blend
+Michter's 20yo Single Barrel Bourbon	9.14	0.38	7	5.5	Bourbon-like		R1	USA	Blend
+Michter's Small Batch US*1 Bourbon	8.46	0.35	19	3.0	Bourbon-like		R1	USA	Rye
+Michter's Sour Mash	8.47	0.36	6	3.0	Bourbon-like		R1	USA	Malt
+Michter's Toasted Barrel	8.37	0.32	10	4.0	Bourbon-like		R1	USA	Malt
+Old Fitzgerald BiB	8.22	0.55	11	3.0	Bourbon-like		R0	USA	Bourbon
+Old Fitzgerald Kentucky Straight Bourbon	8.38	0.5	6	2.0	Bourbon-like		R0	USA	Bourbon
+Old Forester 1870 Original Batch	8.26	0.2	3	3.0	Bourbon-like		R2	USA	Rye
+Old Forester 1897 BiB	8.4	0.55	10	3.0	Bourbon-like		R2	USA	Malt
+Old Forester 1920 Prohibition Style	8.78	0.25	13	4.0	Bourbon-like		R2	USA	Malt
+Old Forester Birthday (all editions)	8.73	0.3	17	5.0	Bourbon-like		R2	USA	Malt
+Old Forester Signature (100 Proof)	8.37	0.4	16	2.0	Bourbon-like		R2	USA	Malt
+Old Forester Statesman	8.65	0.38	6	3.0	Bourbon-like		R2	USA	Malt
+Old Forester	8.14	0.48	15	2.0	Bourbon-like		R2	USA	Rye
+Old Grand-Dad Bourbon (80/86 Proof)	8.01	0.53	13	2.0	Bourbon-like		R3	USA	Malt
+Old Grand-Dad Bourbon 100 BiB	8.43	0.57	15	2.0	Bourbon-like		R3	USA	Malt
+Old Grand-Dad Bourbon 114	8.74	0.3	19	2.0	Bourbon-like		R3	USA	Malt
+Old Rip Van Winkle 10yo	8.9	0.23	15	5.5	Bourbon-like		R0	USA	Bourbon
+Old Weller Antique 107	8.7	0.29	20	2.0	Bourbon-like		R0	USA	Rye
+Pappy Van Winkle Family Reserve Bourbon 15yo	9.22	0.24	14	5.5	Bourbon-like		R0	USA	Bourbon
+Pappy Van Winkle Family Reserve Bourbon 20yo	9.19	0.35	17	5.5	Bourbon-like		R0	USA	Bourbon
+Pappy Van Winkle Family Reserve Bourbon 23yo	8.85	0.4	9	5.5	Bourbon-like		R0	USA	Bourbon
+Rebel Yell Kentucky Bourbon	7.55	0.67	14	1.0	Bourbon-like		R0	USA	Blend
+Redemption High Rye Bourbon	7.82	0.62	7	2.0	Bourbon-like		R3	USA	Bourbon
+Russell's Reserve Single Barrel	8.79	0.25	15	4.0	Bourbon-like		R2	USA	Malt
+Russell's Reserve Small Batch 10yo Bourbon	8.57	0.33	20	2.0	Bourbon-like		R2	USA	Malt
+Smooth Ambler Contradiction Bourbon	8.46	0.46	4	4.0	Bourbon-like		R2	USA	Malt
+Smooth Ambler Old Scout 10yo Bourbon	8.42	0.59	9	4.0	Bourbon-like		R3	USA	Malt
+Smooth Ambler Old Scout 7yo Bourbon	8.46	0.35	15	3.0	Bourbon-like		R3	USA	Malt
+Smooth Ambler Old Scout Single Barrel Bourbon	8.81	0.23	11	4.0	Bourbon-like		R1	USA	Malt
+Smooth Ambler Old Scout Yearling Bourbon	7.92	1.02	4	3.0	Bourbon-like		R0	USA	Malt
+Stagg Jr (all batches)	8.73	0.36	25	4.0	Bourbon-like		R1	USA	Bourbon
+Stagg Jr (batches 1-2)	8.37	0.43	16	4.0	Bourbon-like		R1	USA	Bourbon
+Stagg Jr (batches 3+)	9.01	0.24	18	4.0	Bourbon-like		R1	USA	Blend
+Stagg Jr batch 1 (134.4 proof)	8.41	0.43	17	4.0	Bourbon-like		R1	USA	Blend
+Stagg Jr batch 10 (126.4 proof)	8.77	0.2	3	4.0	Bourbon-like		R1	USA	Blend
+Stagg Jr batch 11 (127.9 proof)	8.9	0.33	3	4.0	Bourbon-like		R1	USA	Blend
+Stagg Jr batch 2 (128.7 proof)	8.04	0.82	3	4.0	Bourbon-like		R1	USA	Blend
+Stagg Jr batch 3 (132.1 proof)	8.8	0.21	8	4.0	Bourbon-like		R1	USA	Malt
+Stagg Jr batch 4 (132.2 proof)	8.97	0.19	5	4.0	Bourbon-like		R1	USA	Blend
+Stagg Jr batch 5 (129.7 proof)	8.98	0.24	4	4.0	Bourbon-like		R1	USA	Bourbon
+Stagg Jr batch 7 (129.5 proof)	8.7	0.47	4	4.0	Bourbon-like		R1	USA	Malt
+Stagg Jr batch 9 (116.8 proof)	9.01	0.22	3	4.0	Bourbon-like		R1	USA	Malt
+Stagg Jr batch 9 (131.9 proof)	9.1	0.07	5	4.0	Bourbon-like		R1	USA	Malt
+Tincup American Whiskey	8.18	0.28	9	2.0	Bourbon-like		R3	USA	Malt
+Van Winkle Special Reserve 12yo Lot B	8.74	0.23	15	5.5	Bourbon-like		R0	USA	Malt
+Very Old Barton 6yo BiB	8.33	0.4	6	2.0	Bourbon-like		R2	USA	Malt
+Very Old Barton 6yo	8.32	0.45	9	1.0	Bourbon-like		R2	USA	Malt
+W.L. Weller 12yo	8.84	0.17	19	5.0	Bourbon-like		R0	USA	Malt
+W.L. Weller Special Reserve	8.38	0.41	16	1.0	Bourbon-like		R0	USA	Blend
+Wild Turkey 101 Bourbon	8.45	0.36	27	2.0	Bourbon-like		R2	USA	Rye
+Wild Turkey 14yo Tradition	8.79	0.28	5	5.0	Bourbon-like		R2	USA	Bourbon
+Wild Turkey 15yo American Spirit	9.15	0.3	3	5.5	Bourbon-like		R2	USA	Bourbon
+Wild Turkey 17yo Master's Keep	8.87	0.33	13	5.0	Bourbon-like		R2	USA	Bourbon
+Wild Turkey 81 Bourbon	8.13	0.47	18	1.0	Bourbon-like		R2	USA	Bourbon
+Wild Turkey Diamond Anniversary	8.76	0.29	8	5.0	Bourbon-like		R2	USA	Bourbon
+Wild Turkey Forgiven	8.36	0.5	11	3.0	Bourbon-like		R2	USA	Bourbon
+Wild Turkey Kentucky Spirit Single Barrel	8.81	0.28	18	3.0	Bourbon-like		R2	USA	Bourbon
+Wild Turkey Longbranch	8.5	0.25	11	3.0	Bourbon-like		R2	USA	Rye
+Wild Turkey Master's Keep Decades	8.84	0.61	11	5.0	Bourbon-like		R2	USA	Rye
+Wild Turkey Master's Keep Revival	8.96	0.25	6	5.0	Bourbon-like		R2	USA	Rye
+Wild Turkey Rare Breed	8.72	0.31	24	3.0	Bourbon-like		R2	USA	Bourbon
+Willett Family Estate 11yo Bourbon	8.93	0.33	9	5.5	Bourbon-like		R2	USA	Rye
+Willett Family Estate 13yo Bourbon	9.02	0.53	5	5.5	Bourbon-like		R2	USA	Rye
+Willett Family Estate 14yo Bourbon	8.87	0.39	4	5.5	Bourbon-like		R2	USA	Bourbon
+Willett Family Estate 17yo Bourbon	8.92	0.6	3	5.5	Bourbon-like		R2	USA	Rye
+Willett Family Estate 22yo Bourbon	9.3	0.08	4	5.5	Bourbon-like		R2	USA	Bourbon
+Willett Family Estate 24yo Bourbon	9.15	0.34	3	5.5	Bourbon-like		R2	USA	Bourbon
+Willett Family Estate 5yo Bourbon	8.85	0.12	3	3.0	Bourbon-like		R2	USA	Bourbon
+Willett Family Estate 7yo Bourbon	8.94	0.25	4	4.0	Bourbon-like		R2	USA	Bourbon
+Willett Family Estate 8yo Bourbon	9.03	0.08	3	4.0	Bourbon-like		R2	USA	Rye
+Willett Family Estate 9yo Bourbon	8.51	0.32	4	4.0	Bourbon-like		R2	USA	Blend
+Willett Family Estate Bourbon (all ages)	9.01	0.27	20	4.0	Bourbon-like		R2	USA	Blend
+Willett Pot Still Reserve	8.54	0.49	13	3.0	Bourbon-like		R2	USA	Malt
+William Heavenhill BiB	8.98	0.13	6	5.5	Bourbon-like		R2	USA	Malt
+William Larue Weller	9.18	0.22	22	5.5	Bourbon-like		R0	USA	Malt
+Woodford Reserve Distiller's Select	8.37	0.33	24	2.0	Bourbon-like		R2	USA	Malt
+Woodford Reserve Double Oaked	8.65	0.28	18	4.0	Bourbon-like		R2	USA	Malt
+Yellowstone 2015 Limited Edition	8.34	0.63	4	5.0	Bourbon-like		R3	USA	
+Yellowstone 2016 Limited Edition	8.71	0.42	3	5.0	Bourbon-like		R3	USA	
+Yellowstone 2018 Limited Edition	8.82	0.17	3	5.0	Bourbon-like		R3	USA	
+Yellowstone Limited Edition (all vintages)	8.71	0.31	3	5.0	Bourbon-like		R3	USA	
+Yellowstone Select	8.23	0.32	9	3.0	Bourbon-like		R3	USA	

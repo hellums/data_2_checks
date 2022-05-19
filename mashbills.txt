@@ -1,0 +1,117 @@
+Producer	Label	Corn	Rye	Wheat	Barley	Char	Entry Proof
+Angel's Envy	Angel's Envy Bourbon	72	18		10	#3	125
+Barrell	Barrel	70	25		5		121.6
+Barton 1792	1792	74*	18*		8*	#3.5	125
+Brown-Forman	Cooper's Craft	72	18		10	#4	125
+Brown-Forman	Early Times	79	11		10	unknown	unknown
+Brown-Forman	Gentleman Jack	80	8		12	#3	unknown
+Brown-Forman	Jack Daniels	80	8		12	#3	unknown
+Brown-Forman	Jack Daniels Single Barrel	80	8		12	#3	unknown
+Brown-Forman	Jack Daniels Rye	18	70		12	#3	unknown
+Brown-Forman	Old Forester	72	18		10	#4	125
+Brown-Forman	Old Forester 1870	72	18		10	#4	125
+Brown-Forman	Old Forester 1897	72	18		10	#4	125
+Brown-Forman	Old Forester Straight Rye	15	65		20	#4	unknown
+Brown-Forman	Woodford Double Oaked	72	18		10	#4	125
+Brown-Forman	Woodford Reserve	72	18		10	#4	125
+Brown-Forman	Woodford Reserve Rye	15	65		20	#4	unknown
+Buffalo Trace	Ancient Age	unknown	12-15*		unknown	#4	125
+Buffalo Trace	Benchmark 8	unknown	<10*		unknown	#4	125
+Buffalo Trace	Blantons	unknown	12-15*		unknown	#4	125
+Buffalo Trace	Buffalo Trace	unknown	<10*		unknown	#4	125
+Buffalo Trace	Col EH Taylor, Jr	unknown	<10*		unknown	#4	125
+Buffalo Trace	Elmer T Lee	unknown	12-15*		unknown	#4	125
+Buffalo Trace	George T Stagg	unknown	<10*		unknown	#4	125
+Buffalo Trace	Hancock reserve	unknown	12-15*		unknown	#4	125
+Buffalo Trace	Old Charter	unknown	<10*		unknown	#4	125
+Buffalo Trace	Rock Hill Farms	unknown	12-15*		unknown	#4	125
+Buffalo Trace	Stagg jr	unknown	<10*		unknown	#4	125
+Buffalo Trace	Van Winkle (All)	unknown		16-18*	unknown	#4	114
+Buffalo Trace	Weller (all)	75		20	5	#4	114
+Buffalo Trace	William Larue Weller	unknown		16-18*	unknown	#4	114
+Buffalo Trace	Eagle Rare	unknown	<10*	unknown		#4	125 
+Bulleit	Bulleit Bourbon	68	28		4	unknown	unknown
+Bulleit	Bulleit 10 year Bourbon	68	28		4	unknown	unknown
+Bulleit	Bulleit Barrel Strength Bourbon	68	28		4	unknown	unknown
+Bulleit	Bulleit Rye (MGP Sourced)		95		5	unknown	unknown
+Diageo (with Distillery)	Blade & Bow, Blend	unknown	unknown	unknown	unknown	unknown	unknown
+Diageo (with Distillery)	I.W. Harper, New Bernheim	73	18		9	unknown	unknown
+Diageo (with Distillery)	Lost Prophet, George T. Stagg (Buffalo Trace)	75	15		10	unknown	unknown
+Diageo (with Distillery)	Old Blowhard, Old Bernheim	86	6		8	unknown	unknown
+Diageo (with Distillery)	Rhetoric 22, New Bernheim	86	6		8	unknown	unknown
+Few	Few Bourbon	70	20		10	#3	118
+Four Roses	Single Barrel Private Selection Barrel proof OBSF	60	35		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OBSK	60	35		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OBSO	60	35		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OBSQ	60	35		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OBSV	60	35		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OESF	75	20		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OESK	75	20		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OESO	75	20		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OESQ	75	20		5	#3/#4	120
+Four Roses	Single Barrel Private Selection Barrel proof OESV	75	20		5	#3/#4	120
+Four Roses	Yellow Label	Mix of E & B				#3/#4	120
+George Dickel Tennessee Whiskey	George Dickel	84	8		8	unknown	unknown
+Heaven Hill	Bernheim Wheat Whiskey	37		51	12	#3	unknown
+Heaven Hill	Elijah Craig	78	10		12	#3	125
+Heaven Hill	Elijah Craig Barrel Proof	78	10		12	#3	125
+Heaven Hill	Elijah Craig Straight Rye	35		51	14	#3	125
+Heaven Hill	Evan Williams Barrel Proof	78	10		12	#3	125
+Heaven Hill	Evan Williams Single Barrel	78	10		12	#3	125
+Heaven Hill	Heaven Hill	78	10		12	#3	125
+Heaven Hill	Henry Mckenna	78	10		12	#3	125
+Heaven Hill	J.W. Dant	78	10		12	#3	125
+Heaven Hill	Larceny	68		20	12	#3	125
+Heaven Hill	Mellow Corn	80	8		12	#3	125
+Heaven Hill	Old Fitzgerald	68		20	12	#3	125
+Heaven Hill	Old Fitzgerald 12 Year (Very Special Old Fitzgerald)	68		20	12	#3	125
+Heaven Hill	Parker's Heritage (unless noted elsewhere)	78	10		12	#3	125
+Heaven Hill	Parker's Heritage Collection 4th Edition	68		20	12	#3	125
+Heaven Hill	Parker's Heritage Wheat Whiskey (2014)	37		51	12	#3	unknown
+Heaven Hill	Parker's Heritage Collection (2015) Malt Whiskey	35			65	#3	unknown
+Heaven Hill	Pikesville Rye	35	51		14	#3	unknown
+Heaven Hill	Rittenhouse Rye	35	51		14	#3	unknown
+Heaven Hill	Rittenhouse Rye BiB	35	51		14	#3	unknown
+J.W. Rutledge	Cream of Kentucky	74	18		8	#3.5	125
+Jefferson's	Ocean, Unknown	unknown	unknown	unknown	unknown	unknown	125
+Jim Beam	Baker's	75	13		12	#4	Unknown (lower than their Std proof)
+Jim Beam	Basil Hayden's	63	27		10	#4	unknown
+Jim Beam	Booker's	75	13		12	#4	125
+Jim Beam	Booker's Rye	unknown	unknown		unknown	#4 (assumed)	unknown
+Jim Beam	Devil's Cut	75	13		12	#4	125
+Jim Beam	Distiller's Masterpiece	75	13		12	#4	125
+Jim Beam	Jim Beam	75	13		12	#4	125
+Jim Beam	Jim Beam Double Oak	75	13		12	#4 + Secondary Barrel	125
+Jim Beam	Jim Beam Single Barrel	75	13		12	#4	125
+Jim Beam	Knob Creek	75	13		12	#4	125
+Jim Beam	Knob Creek Rye	unknown	unknown	unknown	unknown	#4	unknown
+Jim Beam	Old Crow	75	13		12	#4	125
+Jim Beam	Old GrandDad	63	27		10	#4	unknown
+Luxco	Ezra Brooks	78	10		12	#3	125
+Luxco	Rebel Yell (Heaven Hill Sourced)	68		20	12	#3	125
+Maker's Mark	Makers 46	70		16	14	unknown	110
+Maker's Mark	Makers Cask Strength	70		16	14	unknown	110
+Maker's Mark	Makers Mark	70		16	14	unknown	110
+MBR	MB Roland Bourbon	75	15		10	unknown	110
+Michter's	Michter's Toasted Oak	79	11		10	#3 +	103
+Michter's	Michter's US1	79	11		10	#3	103
+Peerless	Rye Whiskey	31	61		8	#3	107
+Rabbit Hole	Rabbit Hole Sherry Finish	68		18	14	#4	Unknown
+Rabbit Hole	Rabbit Hole	70	10	10	10	#3	110
+Rabbit Hole	Rabbit Hole Rye		95		5	#3	110
+Redemption	High Rye Bourbon, MGP	60	38.2		1.8	#3/#4	120
+Redemption	Wheated Bourbon, MGP	51		45	4	unknown	unknown
+Smooth Ambler	Old Scout American Whiskey	84	8		8	unknown	
+Smooth Ambler	Yearling	73		15	12	#3/#4	110-120
+Town Branch	Town Branch Bourbon	72	15		13	#5	120
+Wild Turkey	KY Spirit	75	13		12	#4	114
+Wild Turkey	Rare Breed	75	13		12	#4	114
+Wild Turkey	Russell's Reserve Rye	37	51		12	#4	unknown
+Wild Turkey	Russels' Reserve	75	13		12	#4	114
+Wild Turkey	Wild Turkey	75	13		12	#4	114
+Wild Turkey	Wild Turkey Forgiven	Mix of Bourbon/Rye	Mix of Bourbon/Rye		Mix of Bourbon/Rye	#4	unknown
+Wild Turkey	Wild Turkey Rye	37	51		12	#4	unknown
+Willett	Bourbon #1 (Old Bardstown)	72	17		15	unknown	125
+Willett	Bourbon #4 (Wheated)	65		20	15	unknown	115
+Willett	Rye #1	15	51		34	unknown	110
+Willett	Rye #2	11	74		15	unknown	110

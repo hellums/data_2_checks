@@ -1,0 +1,55 @@
+Producer	Label	Corn	Rye	Wheat	Barley	Char	Entry Proof	Meta Critic	Reviewers	Cost
+Angel's Envy	Angel's Envy Bourbon	72.0	18.0		10.0	3.0	125.0	8.42	18	3.0
+Barrell	Barrel	70.0	25.0		5.0		121.6	8.79	16	4.0
+Barton 1792	1792	74.0	18.0		8.0	3.5	125.0	8.66	13	3.0
+Brown-Forman	Early Times	79.0	11.0		10.0			8.71	5	1.0
+Brown-Forman	Gentleman Jack	80.0	8.0		12.0	3.0		7.93	17	2.0
+Brown-Forman	Jack Daniels Single Barrel	80.0	8.0		12.0	3.0		8.53	20	3.0
+Brown-Forman	Old Forester	72.0	18.0		10.0	4.0	125.0	8.14	15	2.0
+Brown-Forman	Old Forester 1870	72.0	18.0		10.0	4.0	125.0	8.26	3	3.0
+Brown-Forman	Old Forester 1897	72.0	18.0		10.0	4.0	125.0	8.4	10	3.0
+Brown-Forman	Woodford Double Oaked	72.0	18.0		10.0	4.0	125.0	8.65	18	4.0
+Brown-Forman	Woodford Reserve	72.0	18.0		10.0	4.0	125.0	8.37	24	2.0
+Buffalo Trace	Ancient Age		13.5			4.0	125.0	7.85	10	1.0
+Buffalo Trace	Blantons		13.5			4.0	125.0	8.65	27	3.0
+Buffalo Trace	Buffalo Trace		6.66			4.0	125.0	8.55	29	2.0
+Buffalo Trace	Col EH Taylor, Jr		6.66			4.0	125.0	8.8	14	4.0
+Buffalo Trace	Elmer T Lee		13.5			4.0	125.0	8.75	20	3.0
+Buffalo Trace	George T Stagg		6.66			4.0	125.0	9.2	31	5.5
+Buffalo Trace	Stagg jr		6.66			4.0	125.0	8.37	16	4.0
+Buffalo Trace	Van Winkle (All)			17.0		4.0	114.0	8.9	15	5.5
+Buffalo Trace	Weller (all)	75.0		20.0	5.0	4.0	114.0	8.7	20	2.0
+Buffalo Trace	Eagle Rare		6.66			4.0	125.0	8.64	29	2.0
+Bulleit	Bulleit Bourbon	68.0	28.0		4.0			8.33	29	2.0
+Bulleit	Bulleit 10 year Bourbon	68.0	28.0		4.0			8.5	19	3.0
+Bulleit	Bulleit Barrel Strength Bourbon	68.0	28.0		4.0			8.56	9	4.0
+George Dickel Tennessee Whiskey	George Dickel	84.0	8.0		8.0			8.19	20	2.0
+Heaven Hill	Bernheim Wheat Whiskey	37.0		51.0	12.0	3.0		8.41	21	2.0
+Heaven Hill	Elijah Craig	78.0	10.0		12.0	3.0	125.0	8.33	10	2.0
+Heaven Hill	Elijah Craig Barrel Proof	78.0	10.0		12.0	3.0	125.0	8.82	21	4.0
+Heaven Hill	Evan Williams Single Barrel	78.0	10.0		12.0	3.0	125.0	8.58	21	2.0
+Heaven Hill	Larceny	68.0		20.0	12.0	3.0	125.0	8.34	17	2.0
+Heaven Hill	Old Fitzgerald	68.0		20.0	12.0	3.0	125.0	8.38	6	2.0
+Jefferson's	Ocean, Unknown						125.0	8.4	7	2.0
+Jim Beam	Baker's	75.0	13.0		12.0	4.0		9.02	3	3.0
+Jim Beam	Basil Hayden's	63.0	27.0		10.0	4.0		8.29	23	2.0
+Jim Beam	Booker's	75.0	13.0		12.0	4.0	125.0	8.76	29	3.0
+Jim Beam	Jim Beam	75.0	13.0		12.0	4.0	125.0	7.73	5	2.0
+Jim Beam	Jim Beam Double Oak	75.0	13.0		12.0	4.0	125.0	8.28	10	2.0
+Jim Beam	Jim Beam Single Barrel	75.0	13.0		12.0	4.0	125.0	8.59	4	2.0
+Jim Beam	Knob Creek	75.0	13.0		12.0	4.0	125.0	8.76	19	3.0
+Jim Beam	Old GrandDad	63.0	27.0		10.0	4.0		8.01	13	2.0
+Luxco	Ezra Brooks	78.0	10.0		12.0	3.0	125.0	8.64	8	2.0
+Luxco	Rebel Yell (Heaven Hill Sourced)	68.0		20.0	12.0	3.0	125.0	7.55	14	1.0
+Maker's Mark	Makers 46	70.0		16.0	14.0		110.0	8.61	25	3.0
+Maker's Mark	Makers Cask Strength	70.0		16.0	14.0		110.0	8.72	18	4.0
+Maker's Mark	Makers Mark	70.0		16.0	14.0		110.0	8.19	29	2.0
+Michter's	Michter's Toasted Oak	79.0	11.0		10.0	3.0	103.0	8.37	10	4.0
+Michter's	Michter's US1	79.0	11.0		10.0	3.0	103.0	8.46	19	3.0
+Smooth Ambler	Old Scout American Whiskey	84.0	8.0		8.0			8.46	15	3.0
+Smooth Ambler	Yearling	73.0		15.0	12.0	3.5	115.0	7.92	4	3.0
+Wild Turkey	Rare Breed	75.0	13.0		12.0	4.0	114.0	8.72	24	3.0
+Wild Turkey	Russels' Reserve	75.0	13.0		12.0	4.0	114.0	8.57	20	2.0
+Wild Turkey	Wild Turkey	75.0	13.0		12.0	4.0	114.0	8.13	18	1.0
+Wild Turkey	Wild Turkey Forgiven	56.0	32.0		12.0	4.0		8.36	11	3.0
+Willett	Bourbon #4 (Wheated)	65.0		20.0	15.0		115.0	8.54	13	3.0
